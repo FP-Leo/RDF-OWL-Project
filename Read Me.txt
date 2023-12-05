@@ -1,0 +1,3 @@
+This is the finished product of taking an estabilished XML file and turning it into an RDF/OWL project. The project took at least 15 hours with having to design the schema and then putting all the data one by one onto the project. 
+The mistake made was that it was supposed to be a two part project. First we were supposed to design the schema using protege and then on another protege project we were supposed to import it and create the actual dataset. 
+This product instead is both the schema and the dataset in the same file but happy how it turned out either way.
